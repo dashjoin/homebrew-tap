@@ -1,4 +1,4 @@
-class Jsonata < Formula
+class Platform < Formula
     desc "Dashjoin Platform"
     homepage "https://dashjoin.com"
     url "https://download.dashjoin.com/homebrew-tap/dashjoin/dashjoin-5.0.44.zip"
