@@ -3,7 +3,7 @@ class Jsonata < Formula
     homepage "https://dashjoin.com"
     url "https://download.dashjoin.com/homebrew-tap/jsonata-cli/jsonata-cli-0.5.zip"
     version "0.5"
-    sha256 "74171b0bbf52703779a21c332ee35f360bae2ed3fe3da26255817baa158ddab8"
+    sha256 "e42654add6150481a0dcb3b284916ac2fc3df742f946a379786edaef37c2cce2"
     license "Apache-2.0"
 
     def install
