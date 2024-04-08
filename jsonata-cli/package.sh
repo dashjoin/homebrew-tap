@@ -1,4 +1,4 @@
-export VERSION=0.4
+export VERSION=0.5
 echo Packaging homebrew jsonata-cli $VERSION
 echo !!! do NOT forget to set the shasum in jsonata.rb !!!
 
