@@ -97,7 +97,7 @@ then
   REPO="$BASEDIR"/lib
 fi
 
-CLASSPATH="$BASEDIR"/etc:"$REPO"/jsonata-cli-0.4-jar-with-dependencies.jar
+CLASSPATH="$BASEDIR"/etc:"$REPO"/jsonata-cli-0.5-jar-with-dependencies.jar
 
 ENDORSED_DIR=
 if [ -n "$ENDORSED_DIR" ] ; then
